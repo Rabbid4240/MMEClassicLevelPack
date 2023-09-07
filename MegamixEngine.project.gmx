@@ -8770,6 +8770,7 @@
   <rooms name="rooms">
     <room>rooms\rmInit</room>
     <room>rooms\lvlCopyThisRoom</room>
+    <room>rooms\lvlCopyThisRoom9</room>
     <room>rooms\lvlShowcaseHUB</room>
     <rooms name="Engine">
       <room>rooms\rmDisclaimer</room>
@@ -8806,41 +8807,45 @@
       <room>rooms\lvlFlashMan</room>
       <room>rooms\lvlHeatMan</room>
       <room>rooms\lvlMetalMan</room>
+      <room>rooms\lvlQuickMan</room>
+      <room>rooms\lvlWoodMan</room>
       <room>rooms\lvlMM2Wily1</room>
       <room>rooms\lvlMM2Wily2</room>
       <room>rooms\lvlMM2Wily3</room>
       <room>rooms\lvlMM2Wily4</room>
       <room>rooms\lvlMM2Wily5</room>
       <room>rooms\lvlMM2Wily6</room>
-      <room>rooms\lvlQuickMan</room>
-      <room>rooms\lvlWoodMan</room>
     </rooms>
     <rooms name="MM3">
-      <room>rooms\lvlBreakMan</room>
-      <room>rooms\lvlGeminiDoc</room>
       <room>rooms\lvlGeminiMan</room>
       <room>rooms\lvlHardMan</room>
       <room>rooms\lvlMagnetMan</room>
+      <room>rooms\lvlNeedleMan</room>
+      <room>rooms\lvlShadowMan</room>
+      <room>rooms\lvlSnakeMan</room>
+      <room>rooms\lvlSparkMan</room>
+      <room>rooms\lvlTopMan</room>
+      <room>rooms\lvlGeminiDoc</room>
+      <room>rooms\lvlNeedleDoc</room>
+      <room>rooms\lvlShadowDoc</room>
+      <room>rooms\lvlSparkDoc</room>
+      <room>rooms\lvlBreakMan</room>
       <room>rooms\lvlMM3Wily1</room>
       <room>rooms\lvlMM3Wily2</room>
       <room>rooms\lvlMM3Wily3</room>
       <room>rooms\lvlMM3Wily4</room>
       <room>rooms\lvlMM3Wily5</room>
       <room>rooms\lvlMM3Wily6</room>
-      <room>rooms\lvlNeedleDoc</room>
-      <room>rooms\lvlNeedleMan</room>
-      <room>rooms\lvlShadowDoc</room>
-      <room>rooms\lvlShadowMan</room>
-      <room>rooms\lvlSnakeMan</room>
-      <room>rooms\lvlSparkDoc</room>
-      <room>rooms\lvlSparkMan</room>
-      <room>rooms\lvlTopMan</room>
     </rooms>
     <rooms name="MM4">
       <room>rooms\lvlBrightMan</room>
       <room>rooms\lvlDiveMan</room>
       <room>rooms\lvlDrillMan</room>
       <room>rooms\lvlDustMan</room>
+      <room>rooms\lvlPharaohMan</room>
+      <room>rooms\lvlRingMan</room>
+      <room>rooms\lvlSkullMan</room>
+      <room>rooms\lvlToadMan</room>
       <room>rooms\lvlMM4Cossack1</room>
       <room>rooms\lvlMM4Cossack2</room>
       <room>rooms\lvlMM4Cossack3</room>
@@ -8849,16 +8854,16 @@
       <room>rooms\lvlMM4Wily2</room>
       <room>rooms\lvlMM4Wily3</room>
       <room>rooms\lvlMM4Wily4</room>
-      <room>rooms\lvlPharaohMan</room>
-      <room>rooms\lvlRingMan</room>
-      <room>rooms\lvlSkullMan</room>
-      <room>rooms\lvlToadMan</room>
     </rooms>
     <rooms name="MM5">
       <room>rooms\lvlChargeMan</room>
       <room>rooms\lvlCrystalMan</room>
       <room>rooms\lvlGravityMan</room>
       <room>rooms\lvlGyroMan</room>
+      <room>rooms\lvlNapalmMan</room>
+      <room>rooms\lvlStarMan</room>
+      <room>rooms\lvlStoneMan</room>
+      <room>rooms\lvlWaveMan</room>
       <room>rooms\lvlMM5Dark1</room>
       <room>rooms\lvlMM5Dark2</room>
       <room>rooms\lvlMM5Dark3</room>
@@ -8867,10 +8872,6 @@
       <room>rooms\lvlMM5Wily2</room>
       <room>rooms\lvlMM5Wily3</room>
       <room>rooms\lvlMM5Wily4</room>
-      <room>rooms\lvlNapalmMan</room>
-      <room>rooms\lvlStarMan</room>
-      <room>rooms\lvlStoneMan</room>
-      <room>rooms\lvlWaveMan</room>
     </rooms>
     <rooms name="MM6">
       <room>rooms\lvlBlizzardMan</room>
@@ -8879,6 +8880,12 @@
       <room>rooms\lvlFlameMan</room>
       <room>rooms\lvlKnightMan</room>
       <room>rooms\lvlKnightManAlt</room>
+      <room>rooms\lvlPlantMan</room>
+      <room>rooms\lvlTomahawkMan</room>
+      <room>rooms\lvlTomahawkManAlt</room>
+      <room>rooms\lvlWindMan</room>
+      <room>rooms\lvlYamatoMan</room>
+      <room>rooms\lvlYamatoManAlt</room>
       <room>rooms\lvlMM6MrX1</room>
       <room>rooms\lvlMM6MrX2</room>
       <room>rooms\lvlMM6MrX3</room>
@@ -8887,39 +8894,33 @@
       <room>rooms\lvlMM6Wily2</room>
       <room>rooms\lvlMM6Wily3</room>
       <room>rooms\lvlMM6Wily4</room>
-      <room>rooms\lvlPlantMan</room>
-      <room>rooms\lvlTomahawkMan</room>
-      <room>rooms\lvlTomahawkManAlt</room>
-      <room>rooms\lvlWindMan</room>
-      <room>rooms\lvlYamatoMan</room>
-      <room>rooms\lvlYamatoManAlt</room>
     </rooms>
     <rooms name="MM9">
       <room>rooms\lvlConcreteMan</room>
-      <room>rooms\lvlFakeMan</room>
       <room>rooms\lvlGalaxyMan</room>
       <room>rooms\lvlHornetMan</room>
       <room>rooms\lvlJewelMan</room>
       <room>rooms\lvlMagmaMan</room>
+      <room>rooms\lvlPlugMan</room>
+      <room>rooms\lvlSplashWoman</room>
+      <room>rooms\lvlTornadoMan</room>
       <room>rooms\lvlMM9Wily1</room>
       <room>rooms\lvlMM9Wily2</room>
       <room>rooms\lvlMM9Wily3</room>
       <room>rooms\lvlMM9Wily4</room>
-      <room>rooms\lvlPlugMan</room>
-      <room>rooms\lvlSplashWoman</room>
-      <room>rooms\lvlTornadoMan</room>
+      <room>rooms\lvlFakeMan</room>
     </rooms>
     <rooms name="MM10">
       <room>rooms\lvlBladeMan</room>
       <room>rooms\lvlChillMan</room>
       <room>rooms\lvlCommandoMan</room>
-      <room>rooms\lvlMM10Wily1</room>
-      <room>rooms\lvlMM10Wily2</room>
       <room>rooms\lvlNitroMan</room>
       <room>rooms\lvlPumpMan</room>
       <room>rooms\lvlSheepMan</room>
       <room>rooms\lvlSolarMan</room>
       <room>rooms\lvlStrikeMan</room>
+      <room>rooms\lvlMM10Wily1</room>
+      <room>rooms\lvlMM10Wily2</room>
     </rooms>
   </rooms>
   <constants number="39">
