@@ -1,0 +1,5 @@
+# files listed here will not be committed.
+
+gm_ttt_*
+*.swp
+test.log
