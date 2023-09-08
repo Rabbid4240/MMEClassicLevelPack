@@ -3,9 +3,9 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <datafiles number="121" name="datafiles">
-    <datafiles number="121" name="UnitTests">
-      <datafiles number="121" name="Rooms">
+  <datafiles number="129" name="datafiles">
+    <datafiles number="129" name="UnitTests">
+      <datafiles number="129" name="Rooms">
         <datafile>
           <name>lvlUnitTestObjectSetter.room.gmx</name>
           <exists>-1</exists>
@@ -126,7 +126,7 @@
           <filename>lvlUnitTestEnemies.room.gmx</filename>
         </datafile>
       </datafiles>
-      <datafiles number="121" name="Recordings">
+      <datafiles number="129" name="Recordings">
         <datafile>
           <name>RecordingTestBasicMovement2.mrc</name>
           <exists>-1</exists>
@@ -401,7 +401,7 @@
         </datafile>
       </datafiles>
     </datafiles>
-    <datafiles number="121" name="Music">
+    <datafiles number="129" name="Music">
       <datafile>
         <name>Mega_Man_1.nsf</name>
         <exists>-1</exists>
@@ -507,7 +507,7 @@
       <datafile>
         <name>Mega_Man_9.nsf</name>
         <exists>-1</exists>
-        <size>347776</size>
+        <size>153984</size>
         <exportAction>2</exportAction>
         <exportDir></exportDir>
         <overwrite>0</overwrite>
@@ -1066,7 +1066,7 @@
         <filename>songlist.txt</filename>
       </datafile>
     </datafiles>
-    <datafiles number="121" name="Recordings">
+    <datafiles number="129" name="Recordings">
       <datafile>
         <name>demoPharaohMan.mrc</name>
         <exists>-1</exists>
@@ -1102,7 +1102,7 @@
         <filename>demoHoneyWoman.mrc</filename>
       </datafile>
     </datafiles>
-    <datafiles number="121" name="Levels">
+    <datafiles number="129" name="Levels">
       <datafile>
         <name>rmShowcaseBossSharp.room.gmx</name>
         <exists>-1</exists>
