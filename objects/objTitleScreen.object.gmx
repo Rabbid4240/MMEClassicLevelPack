@@ -74,14 +74,14 @@ freshSaveFile();
         exit;
     }
     
-    if ((demoTimer++) mod 500 == 495)
-    {
-        if (!recordInputPlayback(
-            choose("Recordings/demoHoneyWoman.mrc",
-            "Recordings/demoHoneyWoman.mrc")))
-            canProceed = false;
-        exit;
-    }
+//    if ((demoTimer++) mod 500 == 495)
+//    {
+//        if (!recordInputPlayback(
+//            choose("Recordings/demoHoneyWoman.mrc",
+//            "Recordings/demoHoneyWoman.mrc")))
+//            canProceed = false;
+//        exit;
+//    }
     var dir = global.keyDownPressed[0] - global.keyUpPressed[0];
     if (dir != 0)
     {

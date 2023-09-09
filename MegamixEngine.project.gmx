@@ -6152,7 +6152,6 @@
         <background>background\tstMM10Wily3F2</background>
         <background>background\tstMM10Wily3F3</background>
         <background>background\tstMM10Wily4F1</background>
-        <background>background\tstMM10Wily4F10</background>
         <background>background\tstMM10Wily4F2</background>
         <background>background\tstMM10Wily4F3</background>
         <background>background\tstMM10Wily4F4</background>
@@ -6161,6 +6160,7 @@
         <background>background\tstMM10Wily4F7</background>
         <background>background\tstMM10Wily4F8</background>
         <background>background\tstMM10Wily4F9</background>
+        <background>background\tstMM10Wily4F10</background>
         <background>background\tstMM10Wily5F1</background>
         <background>background\tstMM10Wily5F2</background>
         <background>background\tstMM10Wily5F3</background>
@@ -8922,6 +8922,7 @@
       <room>rooms\lvlMM10Wily1</room>
       <room>rooms\lvlMM10Wily2</room>
       <room>rooms\lvlMM10Wily3</room>
+      <room>rooms\lvlMM10Wily4</room>
     </rooms>
   </rooms>
   <constants number="39">
