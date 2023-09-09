@@ -56,10 +56,10 @@ closing = false;
 canOpen = true;
 
 imgSpeed = 0.125;
-layer = 1000000;
+layer = 999990;
 
 //@cc true / false (default)
-isTile = false;
+isTile = true;
 
 destroyDelay = 1;
 </string>
