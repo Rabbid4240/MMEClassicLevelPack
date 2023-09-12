@@ -142,6 +142,7 @@
     <instance objName="objStopScrollingNES" x="2816" y="720" name="inst_08CF5B8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="3200" y="896" name="inst_49D78EF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="1920" y="656" name="inst_C7D529FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objHardMan" x="3536" y="896" name="inst_E014D341" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstHardMan" x="2912" y="384" w="16" h="16" xo="16" yo="144" id="100089" name="inst_100089" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

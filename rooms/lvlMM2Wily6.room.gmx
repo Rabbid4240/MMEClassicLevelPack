@@ -70,6 +70,7 @@
     <instance objName="objVerticalScrolling" x="0" y="720" name="inst_1553794A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objVerticalScrolling" x="0" y="480" name="inst_A31406DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objVerticalScrolling" x="0" y="240" name="inst_170E678E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objAlien" x="1744" y="832" name="inst_9EE12305" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstMM2Wily6" x="1520" y="848" w="16" h="16" xo="64" yo="0" id="100013" name="inst_100013" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

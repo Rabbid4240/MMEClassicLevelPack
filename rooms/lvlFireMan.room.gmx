@@ -68,7 +68,6 @@
     <instance objName="objSolid" x="64" y="0" name="inst_100015" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objSolid" x="80" y="0" name="inst_100016" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objSolid" x="80" y="16" name="inst_100017" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objDefaultSpawn" x="128" y="656" name="inst_100018" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objTileAnimation" x="16" y="496" name="inst_100019" locked="0" code="animLength = 3;&#xA;animTime = 8;&#xA;animateOnTransition = true;&#xA;animID[0] = tstFireMan;&#xA;animID[1] = tstFireManF2;&#xA;animID[2] = tstFireManF3;&#xA;animationLayer = 1000000;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objStopScrollingNES" x="768" y="480" name="inst_100020" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objStopScrollingNES" x="768" y="240" name="inst_100021" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -134,6 +133,8 @@
     <instance objName="objSpike" x="48" y="144" name="inst_601D9547" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objBossDoor" x="2528" y="96" name="inst_370859EF" locked="0" code="" scaleX="2" scaleY="4" colour="4294967295" rotation="0"/>
     <instance objName="objBossDoor" x="3312" y="96" name="inst_89FF0E26" locked="0" code="" scaleX="2" scaleY="4" colour="4294967295" rotation="0"/>
+    <instance objName="objFireMan" x="3520" y="176" name="inst_0292B3F6" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDefaultSpawn" x="128" y="656" name="inst_BCA164D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstFireMan" x="0" y="0" w="16" h="16" xo="0" yo="0" id="100067" name="inst_100067" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

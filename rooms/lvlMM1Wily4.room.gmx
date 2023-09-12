@@ -107,6 +107,7 @@
     <instance objName="objSuperArmBlock2x2" x="128" y="1328" name="inst_100054" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objSuperArmBlock2x2" x="128" y="1360" name="inst_100055" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objStopScrollingNES" x="1792" y="1200" name="inst_D9893F01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objWilyMachine1A" x="2208" y="96" name="inst_E4F96C56" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstMM1Wily4" x="2016" y="128" w="16" h="16" xo="48" yo="0" id="100056" name="inst_100056" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

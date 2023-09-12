@@ -145,6 +145,7 @@
     <instance objName="objVerticalScrolling" x="2048" y="1200" name="inst_EA1BF79A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="1664" y="1136" name="inst_0B85C77B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="3200" y="1376" name="inst_62E8004A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objSparkMan" x="3536" y="1376" name="inst_79F5D853" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstSparkManBG" x="1360" y="96" w="16" h="16" xo="48" yo="0" id="100097" name="inst_100097" depth="1000010" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

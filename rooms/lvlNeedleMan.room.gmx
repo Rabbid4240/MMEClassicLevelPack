@@ -137,6 +137,7 @@
     <instance objName="objETank" x="2760" y="512" name="inst_100084" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="3200" y="144" name="inst_444926A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="2176" y="896" name="inst_F8CCE1C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objNeedleMan" x="3536" y="208" name="inst_1F50D3BA" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstNeedleMan" x="3072" y="96" w="16" h="16" xo="160" yo="160" id="100085" name="inst_100085" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

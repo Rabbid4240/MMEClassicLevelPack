@@ -83,7 +83,7 @@
     <instance objName="objWater" x="1024" y="576" name="inst_100030" locked="0" code="" scaleX="16" scaleY="39" colour="4294967295" rotation="0"/>
     <instance objName="objWater" x="1280" y="960" name="inst_100031" locked="0" code="" scaleX="124" scaleY="15" colour="4294967295" rotation="0"/>
     <instance objName="objWater" x="3264" y="1024" name="inst_100032" locked="0" code="" scaleX="4" scaleY="11" colour="4294967295" rotation="0"/>
-    <instance objName="objWater" x="4000" y="896" name="inst_100033" locked="0" code="" scaleX="23" scaleY="4" colour="4294967295" rotation="0"/>
+    <instance objName="objWater" x="4000" y="1024" name="inst_100033" locked="0" code="" scaleX="23" scaleY="4" colour="4294967295" rotation="0"/>
     <instance objName="objWater" x="4352" y="960" name="inst_100034" locked="0" code="" scaleX="16" scaleY="15" colour="4294967295" rotation="0"/>
     <instance objName="objBossDoor" x="4080" y="1024" name="inst_100035" locked="0" code="" scaleX="2" scaleY="4" colour="4294967295" rotation="0"/>
     <instance objName="objBossDoor" x="4336" y="1024" name="inst_100036" locked="0" code="" scaleX="2" scaleY="4" colour="4294967295" rotation="0"/>
@@ -106,6 +106,7 @@
     <instance objName="objRightScrollingNES" x="4352" y="960" name="inst_D14ABE75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="1152" y="1136" name="inst_C9891E9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="4224" y="1072" name="inst_EEEEE04B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objBubbleMan" x="4560" y="1136" name="inst_3EAF75E2" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstBubbleMan" x="0" y="0" w="16" h="16" xo="64" yo="48" id="100051" name="inst_100051" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

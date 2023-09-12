@@ -100,6 +100,7 @@
     <instance objName="objRightScrollingNES" x="1792" y="480" name="inst_F19CF874" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="1920" y="560" name="inst_FF866975" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="3712" y="1072" name="inst_7419D9C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objWoodMan" x="4048" y="1136" name="inst_3F6E1E43" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstWoodMan" x="3584" y="1024" w="16" h="16" xo="48" yo="16" id="100045" name="inst_100045" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

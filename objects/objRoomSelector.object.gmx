@@ -66,6 +66,10 @@ ds_list_add(roomnames, "@Load External...");
 ds_list_add(roomlist, -2);
 ds_list_add(roomnames, "@Play Recording...");
 
+ds_list_add(roomnames, "MM2 Stage Select");
+ds_list_add(roomlist, rmMM2StageSelect);
+arrayAppend(nonLevels, rmMM2StageSelect);
+
 // Get lvl-rooms
 for (i = 0; i &lt;= lr; i += 1)
 {

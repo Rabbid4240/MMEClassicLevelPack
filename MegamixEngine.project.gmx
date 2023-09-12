@@ -5674,6 +5674,7 @@
       </sprites>
       <sprites name="StageSelect">
         <sprite>sprites\sprStageSelectLight</sprite>
+        <sprite>sprites\sprMM2StageSelectCursor</sprite>
         <sprite>sprites\sprStageSelectArrow</sprite>
         <sprite>sprites\sprStageSelectCursor</sprite>
         <sprite>sprites\sprMM8BossIntroBorder</sprite>
@@ -5717,6 +5718,7 @@
       <sprite>sprites\sprDialogueBox</sprite>
       <sprite>sprites\sprDialogueOptionBox</sprite>
       <sprite>sprites\sprMugshots</sprite>
+      <sprite>sprites\sprMugshots2</sprite>
       <sprite>sprites\sprTextbox</sprite>
       <sprite>sprites\sprPressUp</sprite>
       <sprite>sprites\sprButtonPrompts</sprite>
@@ -5839,6 +5841,7 @@
         <background>background\tstMM2Wily6</background>
         <background>background\tstQuickMan</background>
         <background>background\tstWoodMan</background>
+        <background>background\tstMM2StageSelect</background>
       </backgrounds>
       <backgrounds name="MM3">
         <background>background\tstGeminiMan</background>
@@ -8731,6 +8734,7 @@
         <object>objects\objFileSelector</object>
         <object>objects\objCharacterSelector</object>
         <object>objects\objStageSelect</object>
+        <object>objects\objMM2StageSelect</object>
         <object>objects\objWeaponGet</object>
         <object>objects\objShopControl</object>
         <object>objects\objGameOver</object>
@@ -8780,6 +8784,7 @@
       <room>rooms\rmFileSelect</room>
       <room>rooms\rmNewFile</room>
       <room>rooms\rmStageSelect</room>
+      <room>rooms\rmMM2StageSelect</room>
       <room>rooms\rmOptions</room>
       <room>rooms\rmGameOver</room>
       <room>rooms\rmCredits</room>

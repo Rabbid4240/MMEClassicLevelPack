@@ -98,6 +98,7 @@
     <instance objName="objSpike" x="80" y="1072" name="inst_68C5D5CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="1920" y="656" name="inst_1253173B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="4736" y="1104" name="inst_DB95E2BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objHeatMan" x="5072" y="1136" name="inst_3592A5F4" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstHeatMan" x="4592" y="1056" w="16" h="16" xo="32" yo="64" id="100040" name="inst_100040" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

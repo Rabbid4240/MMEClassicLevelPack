@@ -97,6 +97,11 @@
     <instance objName="objObjectSetter" x="1472" y="16" name="inst_697E127C" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
     <instance objName="objStopScrollingNES" x="512" y="0" name="inst_260D7E9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="128" y="176" name="inst_CF9303A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objBoobeam" x="1520" y="1376" name="inst_832303FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objBoobeam" x="1520" y="1312" name="inst_069009EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objBoobeam" x="1456" y="1264" name="inst_4F9D0418" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objBoobeam" x="1344" y="1248" name="inst_4B142D40" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objBoobeam" x="1296" y="1296" name="inst_EB5D0122" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstMM2Wily4" x="128" y="304" w="16" h="16" xo="0" yo="0" id="100044" name="inst_100044" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

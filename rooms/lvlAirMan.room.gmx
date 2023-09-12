@@ -87,6 +87,7 @@
     <instance objName="objTileAnimation" x="16" y="16" name="inst_A8BF7C97" locked="0" code="animLength = 4;&#xA;animTime = 16;&#xA;animateOnTransition = true;&#xA;animID[0] = tstAirMan;&#xA;animID[1] = tstAirManF2;&#xA;animID[2] = tstAirManF3;&#xA;animID[3] = tstAirManF2;&#xA;animationLayer = -10;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="2432" y="416" name="inst_6B6B1C77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="4736" y="592" name="inst_98F7F5C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objAirMan" x="5072" y="656" name="inst_9DED1258" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstAirMan" x="752" y="80" w="16" h="16" xo="0" yo="0" id="100034" name="inst_100034" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

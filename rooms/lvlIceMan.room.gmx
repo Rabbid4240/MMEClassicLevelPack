@@ -86,7 +86,6 @@
     <instance objName="objStopScrollingNES" x="2304" y="240" name="inst_100041" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objStopScrollingNES" x="2560" y="240" name="inst_100042" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objStopScrollingNES" x="2560" y="0" name="inst_100043" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objDefaultSpawn" x="128" y="176" name="inst_100044" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objRightScrollingNES" x="4096" y="960" name="inst_100045" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objRightScrollingNES" x="4864" y="960" name="inst_100046" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objWater" x="32" y="1152" name="inst_40CC6485" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -99,6 +98,8 @@
     <instance objName="objIce" x="48" y="1152" name="inst_D6113D1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="2432" y="448" name="inst_0C138034" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="4224" y="1104" name="inst_96A8443C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objIceMan" x="5056" y="1136" name="inst_5F600AC7" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDefaultSpawn" x="128" y="176" name="inst_0464DA08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstIceMan" x="4064" y="1072" w="16" h="16" xo="32" yo="96" id="11310862" name="inst_5B6A87A1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

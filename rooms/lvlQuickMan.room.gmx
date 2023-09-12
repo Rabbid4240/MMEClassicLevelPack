@@ -136,6 +136,7 @@
     <instance objName="objVerticalScrolling" x="0" y="1680" name="inst_100083" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="128" y="1856" name="inst_99CE790B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="1920" y="3712" name="inst_2F05572A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objQuickMan" x="2272" y="3776" name="inst_698C5D56" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstQuickMan" x="1776" y="3664" w="16" h="16" xo="48" yo="64" id="100084" name="inst_100084" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

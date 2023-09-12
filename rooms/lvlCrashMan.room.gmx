@@ -134,6 +134,7 @@
     <instance objName="objDefaultSpawn" x="128" y="3536" name="inst_100081" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="384" y="2096" name="inst_51AD20BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="1152" y="112" name="inst_22B23789" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objCrashMan" x="1472" y="176" name="inst_50A50A18" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstCrashMan" x="1008" y="64" w="16" h="16" xo="16" yo="0" id="100082" name="inst_100082" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

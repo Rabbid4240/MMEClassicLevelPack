@@ -127,7 +127,6 @@
     <instance objName="objVerticalScrolling" x="1536" y="720" name="inst_100076" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objVerticalScrolling" x="1536" y="480" name="inst_100077" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objVerticalScrolling" x="1536" y="240" name="inst_100078" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objDefaultSpawn" x="2784" y="1792" name="inst_100079" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objLifeEnergyBig" x="704" y="144" name="inst_100080" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objLife" x="1360" y="48" name="inst_100081" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objLifeEnergyBig" x="1640" y="832" name="inst_100082" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -137,6 +136,7 @@
     <instance objName="objTileAnimation" x="16" y="16" name="inst_19172F0D" locked="0" code="animLength = 3;&#xA;animTime = 32;&#xA;animateOnTransition = true;&#xA;animID[0] = tstFlashMan;&#xA;animID[1] = tstFlashManF2;&#xA;animID[2] = tstFlashManF3;&#xA;animationLayer = 1000000;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="1664" y="528" name="inst_5C2AFD46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="2944" y="1792" name="inst_DDF1B5DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objFlashMan" x="3280" y="1808" name="inst_C9E4AEF7" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstFlashMan" x="2800" y="1744" w="16" h="16" xo="80" yo="0" id="100086" name="inst_100086" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

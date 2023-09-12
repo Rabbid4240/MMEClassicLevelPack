@@ -96,7 +96,8 @@
     <instance objName="objSolid" x="3648" y="1120" name="inst_523E8188" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="2944" y="1104" name="inst_5C0F174D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCheckpoint" x="2432" y="320" name="inst_A5FF567D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objDefaultSpawn" x="128" y="176" name="inst_0FB5E150" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGutsMan" x="3776" y="1136" name="inst_707BC950" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDefaultSpawn" x="128" y="176" name="inst_5B731208" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstGutsMan" x="2784" y="1056" w="16" h="16" xo="48" yo="0" id="100031" name="inst_100031" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
