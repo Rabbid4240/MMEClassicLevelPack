@@ -10,7 +10,7 @@
   <persistent>0</persistent>
   <colour>0</colour>
   <showcolour>-1</showcolour>
-  <code>playMusic("Mega_Man_9_new.nsf","VGM", 25, 0, 0, 0, 1);</code>
+  <code>playMusic("Mega_Man_9.nsf","VGM", 25, 0, 0, 0, 1);</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
@@ -157,7 +157,6 @@
     <instance objName="objSolid" x="2464" y="1472" name="inst_05BEEA2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objSolid" x="2448" y="1472" name="inst_3BDB04F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objSolid" x="2432" y="1472" name="inst_D4955710" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objDefaultSpawn" x="1888" y="160" name="inst_9070EF7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objTileAnimation" x="32" y="912" name="inst_A5AA8E21" locked="0" code="animLength = 8;&#xA;animTime = 7;&#xA;animateOnTransition = true;&#xA;animID[0] = tstMM9Wily2F1;&#xA;animID[1] = tstMM9Wily2F2;&#xA;animID[2] = tstMM9Wily2F3;&#xA;animID[3] = tstMM9Wily2F4;&#xA;animID[4] = tstMM9Wily2F5;&#xA;animID[5] = tstMM9Wily2F4;&#xA;animID[6] = tstMM9Wily2F3;&#xA;animID[7] = tstMM9Wily2F2;&#xA;animationLayer = 999990;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objWeaponEnergyBig" x="48" y="1472" name="inst_AFD626AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objWeaponEnergyBig" x="192" y="1472" name="inst_80C8956C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -169,6 +168,7 @@
     <instance objName="objWeaponEnergyBig" x="1816" y="1088" name="inst_3B97D8D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objLife" x="2136" y="1024" name="inst_60EDD1C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objLifeEnergyBig" x="2456" y="928" name="inst_9F81A5E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objDefaultSpawn" x="128" y="1520" name="inst_66A1EC8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstMM9Wily2F1" x="1040" y="864" w="16" h="16" xo="80" yo="144" id="100089" name="inst_100089" depth="1000010" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

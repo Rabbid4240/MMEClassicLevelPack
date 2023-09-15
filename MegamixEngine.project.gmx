@@ -6014,6 +6014,7 @@
         <background>background\tstWaveManWater</background>
         <background>background\tstWaveManWaterF2</background>
         <background>background\tstWaveManWaterF3</background>
+        <background>background\bgGravityBG</background>
       </backgrounds>
       <backgrounds name="MM6">
         <background>background\bgTomahawkAltParaBG</background>

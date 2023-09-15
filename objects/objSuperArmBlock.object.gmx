@@ -28,7 +28,7 @@
             <string>event_inherited();
 
 //@cc set the depth in creation code to change what layer this applies to.
-layer = 1000000;
+layer = 999990;
 
 if (place_meeting(x, y, objSolid))
 {

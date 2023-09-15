@@ -143,6 +143,13 @@
     <instance objName="objCheckpoint" x="896" y="864" name="inst_66219AF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objElecMan" x="960" y="176" name="inst_C4D58A94" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objDefaultSpawn" x="128" y="4992" name="inst_4C43DE18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objSolid" x="832" y="160" name="inst_26913DE6" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="objSolid" x="800" y="160" name="inst_A7CD9A7C" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="objSolid" x="448" y="1536" name="inst_33F22D5A" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="objSolid" x="416" y="2256" name="inst_970A631F" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="objSolid" x="384" y="2256" name="inst_8F69953F" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="objSolid" x="352" y="2256" name="inst_D56D8D8C" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="objSolid" x="384" y="2528" name="inst_966C5134" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tstElecMan" x="0" y="0" w="16" h="16" xo="0" yo="0" id="100628" name="inst_100628" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -357,10 +364,6 @@
     <tile bgName="tstElecMan" x="1008" y="144" w="16" h="16" xo="0" yo="0" id="100837" name="inst_100837" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="768" y="160" w="16" h="16" xo="16" yo="32" id="100838" name="inst_100838" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="784" y="160" w="16" h="16" xo="32" yo="32" id="100839" name="inst_100839" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="800" y="160" w="16" h="16" xo="48" yo="16" id="100840" name="inst_100840" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="816" y="160" w="16" h="16" xo="64" yo="16" id="100841" name="inst_100841" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="832" y="160" w="16" h="16" xo="48" yo="16" id="100842" name="inst_100842" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="848" y="160" w="16" h="16" xo="64" yo="16" id="100843" name="inst_100843" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="864" y="160" w="16" h="16" xo="112" yo="16" id="100844" name="inst_100844" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="880" y="160" w="16" h="16" xo="112" yo="16" id="100845" name="inst_100845" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="896" y="160" w="16" h="16" xo="112" yo="16" id="100846" name="inst_100846" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -373,10 +376,6 @@
     <tile bgName="tstElecMan" x="1008" y="160" w="16" h="16" xo="0" yo="0" id="100853" name="inst_100853" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="768" y="176" w="16" h="16" xo="16" yo="16" id="100854" name="inst_100854" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="784" y="176" w="16" h="16" xo="32" yo="16" id="100855" name="inst_100855" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="800" y="176" w="16" h="16" xo="48" yo="32" id="100856" name="inst_100856" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="816" y="176" w="16" h="16" xo="64" yo="32" id="100857" name="inst_100857" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="832" y="176" w="16" h="16" xo="48" yo="32" id="100858" name="inst_100858" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="848" y="176" w="16" h="16" xo="64" yo="32" id="100859" name="inst_100859" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="864" y="176" w="16" h="16" xo="112" yo="16" id="100860" name="inst_100860" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="880" y="176" w="16" h="16" xo="112" yo="16" id="100861" name="inst_100861" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="896" y="176" w="16" h="16" xo="112" yo="16" id="100862" name="inst_100862" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -1438,8 +1437,6 @@
     <tile bgName="tstElecMan" x="400" y="1536" w="16" h="16" xo="128" yo="0" id="101934" name="inst_101934" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="416" y="1536" w="16" h="16" xo="128" yo="0" id="101935" name="inst_101935" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="432" y="1536" w="16" h="16" xo="128" yo="0" id="101936" name="inst_101936" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="448" y="1536" w="16" h="16" xo="48" yo="16" id="101937" name="inst_101937" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="464" y="1536" w="16" h="16" xo="64" yo="16" id="101938" name="inst_101938" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="480" y="1536" w="16" h="16" xo="0" yo="32" id="101939" name="inst_101939" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="496" y="1536" w="16" h="16" xo="32" yo="0" id="101940" name="inst_101940" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="352" y="1552" w="16" h="16" xo="16" yo="48" id="101941" name="inst_101941" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -1448,8 +1445,6 @@
     <tile bgName="tstElecMan" x="400" y="1552" w="16" h="16" xo="128" yo="16" id="101944" name="inst_101944" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="416" y="1552" w="16" h="16" xo="128" yo="16" id="101945" name="inst_101945" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="432" y="1552" w="16" h="16" xo="128" yo="16" id="101946" name="inst_101946" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="448" y="1552" w="16" h="16" xo="48" yo="32" id="101947" name="inst_101947" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="464" y="1552" w="16" h="16" xo="64" yo="32" id="101948" name="inst_101948" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="480" y="1552" w="16" h="16" xo="0" yo="16" id="101949" name="inst_101949" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="496" y="1552" w="16" h="16" xo="16" yo="16" id="101950" name="inst_101950" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="288" y="1568" w="16" h="16" xo="32" yo="48" id="101951" name="inst_101951" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -1798,8 +1793,6 @@
     <tile bgName="tstElecMan" x="304" y="2048" w="16" h="16" xo="0" yo="48" id="102294" name="inst_102294" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="320" y="2048" w="16" h="16" xo="0" yo="48" id="102295" name="inst_102295" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="336" y="2048" w="16" h="16" xo="0" yo="48" id="102296" name="inst_102296" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="384" y="2048" w="16" h="16" xo="48" yo="16" id="102297" name="inst_102297" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="400" y="2048" w="16" h="16" xo="64" yo="16" id="102298" name="inst_102298" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="416" y="2048" w="16" h="16" xo="128" yo="16" id="102299" name="inst_102299" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="432" y="2048" w="16" h="16" xo="128" yo="16" id="102300" name="inst_102300" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="448" y="2048" w="16" h="16" xo="32" yo="48" id="102301" name="inst_102301" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -1807,8 +1800,6 @@
     <tile bgName="tstElecMan" x="480" y="2048" w="16" h="16" xo="0" yo="32" id="102303" name="inst_102303" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="496" y="2048" w="16" h="16" xo="16" yo="32" id="102304" name="inst_102304" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="288" y="2064" w="16" h="16" xo="32" yo="48" id="102305" name="inst_102305" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="384" y="2064" w="16" h="16" xo="48" yo="32" id="102306" name="inst_102306" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="400" y="2064" w="16" h="16" xo="64" yo="32" id="102307" name="inst_102307" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="416" y="2064" w="16" h="16" xo="128" yo="16" id="102308" name="inst_102308" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="432" y="2064" w="16" h="16" xo="128" yo="16" id="102309" name="inst_102309" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="448" y="2064" w="16" h="16" xo="32" yo="48" id="102310" name="inst_102310" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -1913,20 +1904,8 @@
     <tile bgName="tstElecMan" x="464" y="2240" w="16" h="16" xo="16" yo="16" id="102409" name="inst_102409" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="480" y="2240" w="16" h="16" xo="16" yo="16" id="102410" name="inst_102410" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="496" y="2240" w="16" h="16" xo="16" yo="16" id="102411" name="inst_102411" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="352" y="2256" w="16" h="16" xo="48" yo="16" id="102412" name="inst_102412" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="368" y="2256" w="16" h="16" xo="64" yo="16" id="102413" name="inst_102413" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="384" y="2256" w="16" h="16" xo="48" yo="16" id="102414" name="inst_102414" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="400" y="2256" w="16" h="16" xo="64" yo="16" id="102415" name="inst_102415" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="416" y="2256" w="16" h="16" xo="48" yo="16" id="102416" name="inst_102416" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="432" y="2256" w="16" h="16" xo="64" yo="16" id="102417" name="inst_102417" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="480" y="2256" w="16" h="16" xo="0" yo="32" id="102418" name="inst_102418" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="496" y="2256" w="16" h="16" xo="32" yo="0" id="102419" name="inst_102419" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="352" y="2272" w="16" h="16" xo="48" yo="32" id="102420" name="inst_102420" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="368" y="2272" w="16" h="16" xo="64" yo="32" id="102421" name="inst_102421" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="384" y="2272" w="16" h="16" xo="48" yo="32" id="102422" name="inst_102422" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="400" y="2272" w="16" h="16" xo="64" yo="32" id="102423" name="inst_102423" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="416" y="2272" w="16" h="16" xo="48" yo="32" id="102424" name="inst_102424" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="432" y="2272" w="16" h="16" xo="64" yo="32" id="102425" name="inst_102425" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="480" y="2272" w="16" h="16" xo="0" yo="16" id="102426" name="inst_102426" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="496" y="2272" w="16" h="16" xo="16" yo="16" id="102427" name="inst_102427" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="288" y="2288" w="16" h="16" xo="32" yo="48" id="102428" name="inst_102428" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -2076,16 +2055,12 @@
     <tile bgName="tstElecMan" x="496" y="2512" w="16" h="16" xo="16" yo="16" id="102572" name="inst_102572" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="288" y="2528" w="16" h="16" xo="0" yo="48" id="102573" name="inst_102573" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="304" y="2528" w="16" h="16" xo="0" yo="48" id="102574" name="inst_102574" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="384" y="2528" w="16" h="16" xo="48" yo="16" id="102575" name="inst_102575" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="400" y="2528" w="16" h="16" xo="64" yo="16" id="102576" name="inst_102576" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="416" y="2528" w="16" h="16" xo="128" yo="16" id="102577" name="inst_102577" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="432" y="2528" w="16" h="16" xo="128" yo="16" id="102578" name="inst_102578" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="448" y="2528" w="16" h="16" xo="128" yo="16" id="102579" name="inst_102579" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="464" y="2528" w="16" h="16" xo="128" yo="16" id="102580" name="inst_102580" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="480" y="2528" w="16" h="16" xo="0" yo="32" id="102581" name="inst_102581" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="496" y="2528" w="16" h="16" xo="16" yo="32" id="102582" name="inst_102582" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="384" y="2544" w="16" h="16" xo="48" yo="32" id="102583" name="inst_102583" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tstElecMan" x="400" y="2544" w="16" h="16" xo="64" yo="32" id="102584" name="inst_102584" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="416" y="2544" w="16" h="16" xo="128" yo="16" id="102585" name="inst_102585" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="432" y="2544" w="16" h="16" xo="128" yo="16" id="102586" name="inst_102586" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="448" y="2544" w="16" h="16" xo="128" yo="16" id="102587" name="inst_102587" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -4189,6 +4164,14 @@
     <tile bgName="tstElecMan" x="912" y="208" w="16" h="16" xo="112" yo="16" id="11311797" name="inst_04C49703" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="896" y="192" w="16" h="16" xo="32" yo="48" id="11311800" name="inst_55415032" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="896" y="208" w="16" h="16" xo="32" yo="48" id="11311801" name="inst_99C521A8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="800" y="160" w="16" h="16" xo="112" yo="16" id="11356275" name="inst_C8888A65" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="816" y="160" w="16" h="16" xo="112" yo="16" id="11356276" name="inst_E0B705B3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="832" y="160" w="16" h="16" xo="112" yo="16" id="11356277" name="inst_D66237BB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="848" y="160" w="16" h="16" xo="112" yo="16" id="11356278" name="inst_B615D1D2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="848" y="176" w="16" h="16" xo="112" yo="16" id="11356279" name="inst_7AE4ABA5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="832" y="176" w="16" h="16" xo="112" yo="16" id="11356280" name="inst_B8293D45" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="816" y="176" w="16" h="16" xo="112" yo="16" id="11356281" name="inst_F82FCDED" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="800" y="176" w="16" h="16" xo="112" yo="16" id="11356282" name="inst_75D246AA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="736" y="816" w="16" h="16" xo="80" yo="16" id="11311773" name="inst_8C06DD59" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="736" y="832" w="16" h="16" xo="80" yo="16" id="11311774" name="inst_1F185A30" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="736" y="848" w="16" h="16" xo="80" yo="16" id="11311775" name="inst_81636740" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -4205,6 +4188,17 @@
     <tile bgName="tstElecMan" x="880" y="208" w="16" h="16" xo="80" yo="32" id="11311788" name="inst_26C1C775" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="896" y="208" w="16" h="16" xo="80" yo="32" id="11311789" name="inst_AC58A767" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tstElecMan" x="912" y="208" w="16" h="16" xo="80" yo="32" id="11311790" name="inst_2467B7C4" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="384" y="2544" w="16" h="16" xo="48" yo="32" id="11356265" name="inst_933042EF" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="400" y="2544" w="16" h="16" xo="64" yo="32" id="11356266" name="inst_53C08A3C" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="400" y="2528" w="16" h="16" xo="64" yo="16" id="11356267" name="inst_19D867FD" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="384" y="2528" w="16" h="16" xo="48" yo="16" id="11356268" name="inst_42BE6DE5" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="352" y="2256" w="32" h="32" xo="48" yo="16" id="11356269" name="inst_C5F30360" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="384" y="2256" w="32" h="32" xo="48" yo="16" id="11356270" name="inst_D0F4043C" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="416" y="2256" w="32" h="32" xo="48" yo="16" id="11356271" name="inst_CB9A5267" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="384" y="2048" w="32" h="32" xo="48" yo="16" id="11356273" name="inst_D7A7078D" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="448" y="1536" w="32" h="32" xo="48" yo="16" id="11356274" name="inst_6B95E9E6" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="800" y="160" w="32" h="32" xo="48" yo="16" id="11356283" name="inst_7D549D1B" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tstElecMan" x="832" y="160" w="32" h="32" xo="48" yo="16" id="11356284" name="inst_6F065CF5" depth="999990" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>

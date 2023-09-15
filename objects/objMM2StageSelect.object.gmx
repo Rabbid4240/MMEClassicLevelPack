@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>// drawing constants
 optionXOrigin = 64;
-optionYOrigin = 48;
+optionYOrigin = 40;
 
 optionXDist = 64;
 optionYDist = 64;
